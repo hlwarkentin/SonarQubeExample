@@ -1,0 +1,2 @@
+# SonarTest
+Test SonarQube setup
