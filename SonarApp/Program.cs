@@ -12,7 +12,7 @@ namespace SonarApp
             string newName = "This is your name: Hank";
             if (newName == GetName("Hank"))
             {
-                Console.WriteLine("This is real code, SonarQube");
+                Console.WriteLine("This is real code, SonarQube!");
             }
         }
 
